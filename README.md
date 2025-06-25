@@ -9,9 +9,7 @@ This project is a demo web scraping API built using [Playwright](https://playwri
 - ✅ Quotes scraper from `quotes.toscrape.com`
 - ✅ Book title & price scraper from `books.toscrape.com`
 - ✅ HTML test scraping from `httpbin.org`
-- ✅ Fake person data scraper from `fakepersongenerator.com`
 - ✅ Product scraper from `scrapeme.live/shop/`
-- ✅ Fake name/address generator from `fakenamegenerator.com`
 
 ---
 
